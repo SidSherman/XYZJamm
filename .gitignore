@@ -72,6 +72,4 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-Content/Material/M_Inviz.uasset
-Content/Material/MI_Inviz.uasset
-Content/Blueprints/Weapon/BP_BaseRangedWeapon.uasset
+
